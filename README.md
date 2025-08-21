@@ -1,6 +1,4 @@
 # CodeAlpha 📊 HR Analytics Dashboard  
-
-<img width="1536" height="1024" alt="CodeAlpha Internship" src="https://github.com/user-attachments/assets/e7121505-af12-47f1-963c-69d861e96041" />
 ---
 
 ## 📌 Overview  
