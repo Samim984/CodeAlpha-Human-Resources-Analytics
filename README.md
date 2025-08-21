@@ -1,5 +1,6 @@
 # CodeAlpha 📊 HR Analytics Dashboard  
 
+<img width="1536" height="1024" alt="CodeAlpha Internship" src="https://github.com/user-attachments/assets/e7121505-af12-47f1-963c-69d861e96041" />
 ---
 
 ## 📌 Overview  
@@ -64,4 +65,4 @@ The dashboard is designed for **HR teams and management** to support data-driven
 🔮 Prediction & Insights
 
 ## 📬 Contact Me
-💼 linkedin.com/in/samim-imtiaz-611a35273
+💼 [linkedin.com/in/samim-imtiaz-611a35273](url)
